@@ -1,6 +1,6 @@
 # Simple Bankist website
 
-![](logo.png)
+![](login.png)
 <br />
 ![](home.png)
 
